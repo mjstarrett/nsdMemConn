@@ -3,5 +3,6 @@ Neurohackademy 2022 project working to analyze natural scenes dataset in the con
 
 ## Team Members
 Mike Starrett Ambrose (UC Irvine)
+Jessica Kraft (University of Florida)
 
 ## Getting Started
