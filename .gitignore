@@ -1,1 +1,2 @@
 # Here are the things to skip so we don't get errors
+.ipynb_checkpoints
