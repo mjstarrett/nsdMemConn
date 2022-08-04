@@ -18,8 +18,8 @@ Zhen-Qi Liu (McGill University)
 
 ### Behvioral Analysis
   * SCRIPT: ./scripts_notebooks/beh-wrangle-plot_sub01.ipynb  
-        * Load data, add column with label codes for hit/miss/false alarm/ corr rejection  
-        * Visualize count data for hit/miss/false alarm/ corr rejection  
-        * Visualize distribution of reaction times, log transform, visualize again  
+    * Load data, add column with label codes for hit/miss/false alarm/ corr rejection  
+    * Visualize count data for hit/miss/false alarm/ corr rejection  
+    * Visualize distribution of reaction times, log transform, visualize again  
   * OUTPUT:  
-        * ./scripts_notebooks/nsd_s1_sigDetect.csv (tab-delimited data.frame)  
+    * ./scripts_notebooks/nsd_s1_sigDetect.csv (tab-delimited data.frame)  
