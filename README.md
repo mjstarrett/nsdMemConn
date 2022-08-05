@@ -22,4 +22,6 @@ Zhen-Qi Liu (McGill University)
     * Visualize count data for hit/miss/false alarm/ corr rejection  
     * Visualize distribution of reaction times, log transform, visualize again  
     * OUTPUT:  
-      * ./scripts_notebooks/nsd_s1_sigDetect.csv (tab-delimited data.frame)  
+      * In-line plots from code
+      * ./scripts_notebooks/derivatives/s01_signalDetectData.csv (tab-delimited data.frame) 
+      * ./scripts_notebooks/derivatives/allSubs_signalDetectData.csv (tab-delimited data.frame)    
